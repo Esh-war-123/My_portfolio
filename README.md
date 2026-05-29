@@ -1,16 +1,41 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my skills, projects, experience, and professional journey as a developer.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio is designed to present who I am, what I do, and the projects I have worked on. It includes sections for my introduction, technical skills, featured projects, experience, and contact information.
 
-## React Compiler
+The goal of this project is to create a clean, professional, and user-friendly online presence that can be shared with recruiters, employers, and professional connections.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Responsive design for desktop, tablet, and mobile
+- Clean and modern user interface
+- Personal introduction section
+- Skills and technologies section
+- Projects showcase
+- Contact information
+- Fast performance using Vite
+- Built with reusable React components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+## Project Structure
+
+```bash
+src/
+│
+├── assets/        # Images and static files
+├── components/    # Reusable React components
+├── pages/         # Page sections
+├── App.jsx        # Main application component
+├── main.jsx       # React entry point
+└── index.css      # Global styles
